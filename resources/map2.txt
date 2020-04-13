@@ -1,0 +1,7 @@
+5 7
+....WWWW
+.Go..oKW
+...oWoCW
+.P.Wo.KW
+Wo.o.oCW
+WWWWWWWW
